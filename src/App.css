@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.myc {
+  border: green 1px solid;
+}
+
+.myr {
+  border: blue 1px solid;
+}
+
+#NavHeader {
+  height: 50px;
+}
+
+#addCourseBtn {
+  font-size: 60px;
+  color: red;
+}
+
+td {
+  max-width: 50px;
+}
+
+.trashANDedit {
+  float: right;
+}
+
+input {
+  text-align: center;
+}
